@@ -1,0 +1,2 @@
+ingest_ms_per_img,store_MB,epoch_unsecured_s,epoch_secured_s,verify_overhead_pct,verify_ms_per_img
+46.082,64.0,3.54,6.75,90.9,1.605

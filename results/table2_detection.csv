@@ -1,0 +1,4 @@
+attack,n,detected,rate
+A1_tamper,50,47,0.94
+A2_labelflip,50,50,1.0
+A3_injection,50,50,1.0

@@ -1,0 +1,2 @@
+positive_class,per_class,total,train,val,test,img_size
+Pneumonia,1431,2862,2002,430,430,224
